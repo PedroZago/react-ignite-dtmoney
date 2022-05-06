@@ -1,5 +1,5 @@
 <h1 align="center">
-     Desafio 02 - Componentizando a aplicação
+     dtmoney
 </h1>
 
 ## 💻 Sobre o projeto
